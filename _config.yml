@@ -21,7 +21,7 @@ repository               : "renuyadavwxyz/renuyadavwxyz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_image.jpg"
   name             : "Renu Yadav"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Mathematics"
