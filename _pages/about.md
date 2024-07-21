@@ -11,4 +11,4 @@ Moin, I am a second-year PhD in the <a href= "https://www.uni-bremen.de/dynamica
 
 Prior to starting my PhD, I graduated from Indian Institute of Technology Kanpur in 2019 and worked as an R&D software developer in Singapore. 
 
-If you are also interested in these topic and , feel free to get in touch. My email address is *lastname* "at" *uni-bremen.de*
+You can reach me via email at *lastname* "at" *uni-bremen.de*.
